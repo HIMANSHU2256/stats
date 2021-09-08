@@ -1,7 +1,0 @@
-ALGORITHM
-
-1. define a function linear search having two argument named as (arr,x) where arr s array and x is element to search
-2. define array and take input x from user 
-3. using for loop we iterate i from index 0 to len(arr)
-4. if arr[i] equal to value of x it return index of x else 0
-5. now print "element at index" value
